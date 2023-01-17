@@ -1,5 +1,4 @@
 from tkinter import *
-from tkinter import filedialog
 import customtkinter
 from pytube import YouTube
 from pathlib import Path
